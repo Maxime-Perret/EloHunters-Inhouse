@@ -1,0 +1,1 @@
+{"version":3,"file":"AdminOnly.d.ts","sourceRoot":"","sources":["../../src/preconditions/AdminOnly.ts"],"names":[],"mappings":"AACA,OAAO,KAAK,EAAE,kBAAkB,EAAE,MAAM,YAAY,CAAC;AACrD,OAAO,EAAE,YAAY,EAAE,MAAM,qBAAqB,CAAC;AAInD,qBAAa,qBAAsB,SAAQ,YAAY;IAE7B,YAAY,CAAC,WAAW,EAAE,kBAAkB;YASpD,UAAU;CAW3B;AAID,OAAO,QAAQ,qBAAqB,CAAC;IACjC,UAAU,aAAa;QACnB,SAAS,EAAE,KAAK,CAAC;KACpB;CACJ"}

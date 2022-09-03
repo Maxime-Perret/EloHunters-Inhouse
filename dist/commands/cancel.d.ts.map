@@ -1,0 +1,1 @@
+{"version":3,"file":"cancel.d.ts","sourceRoot":"","sources":["../../src/commands/cancel.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,0BAA0B,EAAE,OAAO,EAAoB,MAAM,qBAAqB,CAAC;AAC5F,OAAO,EAAE,kBAAkB,EAAyB,MAAM,YAAY,CAAC;AAOvE,qBAAa,MAAO,SAAQ,OAAO;gBAEnB,OAAO,EAAE,OAAO,CAAC,OAAO;IAU9B,YAAY,CAAC,WAAW,EAAE,kBAAkB;IAoGlD,2BAA2B,CAAC,QAAQ,EAAE,0BAA0B;CAsBnE"}

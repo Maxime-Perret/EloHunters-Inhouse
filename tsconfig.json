@@ -1,0 +1,10 @@
+{
+
+    "extends": "@sapphire/ts-config",
+    "compilerOptions": {
+        "outDir": "dist",
+        "resolveJsonModule": false
+    },
+    "include": ["src"]
+  
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"error.js","sourceRoot":"","sources":["../../src/listeners/error.ts"],"names":[],"mappings":";;;AACA,mDAA+C;AAC/C,MAAa,qBAAsB,SAAQ,oBAAQ;IACxC,GAAG,CAAC,KAAgB,EAAE,EAAE,WAAW,EAAiC;QAGvE,OAAO,CAAC,GAAG,CAAC,KAAK,CAAC,OAAO,CAAC,CAAA;QAC1B,WAAW,CAAC,SAAS,CAAC,KAAK,CAAC,OAAO,CAAC,CAAC;QAErC,MAAM;IACV,CAAC;CACJ;AATD,sDASC"}
